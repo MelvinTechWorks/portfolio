@@ -1,5 +1,5 @@
 # MELVIN ANNASSE
-**Principal Engineer · Test Automation Specialist · AI/ML & Full-Stack Developer**
+**Founding Engineer · Test Automation Specialist · **
 
 Puducherry, India | work.melvinannasse@gmail.com | +91-9489390555  | [github.com/MelvinTechWorks](https://github.com/MelvinTechWorks)
 
