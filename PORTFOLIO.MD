@@ -79,7 +79,7 @@ Engaged as a Founding Engineer delivering full-stack, AI-integrated, and platfor
 ---
 
 ### Dell Technologies
-**Test Engineer 2** — Bengaluru, India
+**Test Automation Engineer** — Bengaluru, India
 *September 2018 – August 2022*
 
 - Designed, developed, and maintained automated test frameworks and scripts for **Dell SWRAID** using Python and Selenium.
