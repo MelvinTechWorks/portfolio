@@ -42,39 +42,39 @@ Engaged as a Founding Engineer delivering full-stack, AI-integrated, and platfor
 
 ---
 
-#### Confidential — AI-Powered E-Governance & Citizen Services Platform `[In Progress]`
-*April 2026 – Present*
-
-> *Project details and client identity are confidential per NDA.*
-
-A comprehensive full-stack **citizen services and e-governance platform** designed to digitise government service delivery, leveraging AI/LLM for intelligent citizen assistance, document management, appointment scheduling, and multi-lingual support.
-
-**Tech Stack:** `React.js` `FastAPI` `MongoDB` `Motor` `Google Gemini` `OpenAI API` `LiteLLM` `HuggingFace` `JWT / OAuth2` `Stripe` `AWS S3` `WebSockets` `Pydantic v2` `pytest`
-
----
-
-#### WingYourDream — Career & Education Platform Website `[Pre-Beta]`
-*April 2026 – Present*
-
-A professional multi-page **marketing and student onboarding website** for WingYourDream — a career discovery and mentorship platform helping students explore careers, plan their paths, and connect with mentors.
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `C# (.NET 8)` `PowerShell`
-
-- Designed and developed a **7-page responsive marketing website**: Home, About, Products, Why Wings, Wings Source, Student Sign-Up, and Contact.
-- Built a **zero-dependency PowerShell development server** for seamless local development without Node.js or npm.
-- Implemented an alternative **.NET 8 C# backend server** for production-ready local hosting.
-- Developed a **student onboarding sign-up form** for Beta launch readiness with rich media assets.
-
----
-
-#### Confidential — AI Microservices Engine `[In Progress]`
-*January 2026 – Present*
-
-> *Project details and client identity are confidential per NDA.*
-
-An early-stage, modular **AI microservices engine** designed to provide reusable, pluggable AI capabilities for client-facing applications.
-
-**Tech Stack:** `Python` `AI/ML` `Microservices Architecture`
+  #### Confidential — AI-Powered E-Governance & Citizen Services Platform `[In Progress]`
+  *April 2026 – Present*
+  
+  > *Project details and client identity are confidential per NDA.*
+  
+  A comprehensive full-stack **citizen services and e-governance platform** designed to digitise government service delivery, leveraging AI/LLM for intelligent citizen assistance, document management, appointment scheduling, and multi-lingual support.
+  
+  **Tech Stack:** `React.js` `FastAPI` `MongoDB` `Motor` `Google Gemini` `OpenAI API` `LiteLLM` `HuggingFace` `JWT / OAuth2` `Stripe` `AWS S3` `WebSockets` `Pydantic v2` `pytest`
+  
+  ---
+  
+  #### WingYourDream — Career & Education Platform Website `[Pre-Beta]`
+  *April 2026 – Present*
+  
+  A professional multi-page **marketing and student onboarding website** for WingYourDream — a career discovery and mentorship platform helping students explore careers, plan their paths, and connect with mentors.
+  
+  **Tech Stack:** `HTML5` `CSS3` `JavaScript` `C# (.NET 8)` `PowerShell`
+  
+  - Designed and developed a **7-page responsive marketing website**: Home, About, Products, Why Wings, Wings Source, Student Sign-Up, and Contact.
+  - Built a **zero-dependency PowerShell development server** for seamless local development without Node.js or npm.
+  - Implemented an alternative **.NET 8 C# backend server** for production-ready local hosting.
+  - Developed a **student onboarding sign-up form** for Beta launch readiness with rich media assets.
+  
+  ---
+  
+  #### Confidential — AI Microservices Engine `[In Progress]`
+  *January 2026 – Present*
+  
+  > *Project details and client identity are confidential per NDA.*
+  
+  An early-stage, modular **AI microservices engine** designed to provide reusable, pluggable AI capabilities for client-facing applications.
+  
+  **Tech Stack:** `Python` `AI/ML` `Microservices Architecture`
 
 ---
 
