@@ -35,19 +35,19 @@ Since 2022, expanded into **AI/ML engineering** and **full-stack development** a
 ## Work Experience
 
 ### Innovista
-**Founding Engineer** — Puducherry, India
+**Founding Engineer** — Puducherry, India . Remote
 *January 2026 – Present*
 
 Engaged as a Founding Engineer delivering full-stack, AI-integrated, and platform engineering solutions for private clients across multiple concurrent engagements. Solely responsible for technical architecture, design, development, testing, and delivery.
 
 ---
 
-  #### Confidential — AI-Powered E-Governance & Citizen Services Platform `[In Progress]`
+  #### Confidential — AI-Powered E-Governance Platform `[In Progress]`
   *April 2026 – Present*
   
   > *Project details and client identity are confidential per NDA.*
   
-  A comprehensive full-stack **citizen services and e-governance platform** designed to digitise government service delivery, leveraging AI/LLM for intelligent citizen assistance, document management, appointment scheduling, and multi-lingual support.
+  A comprehensive full-stack **e-governance platform** designed to digitise government service delivery, leveraging AI/LLM for intelligent citizen assistance, document management, appointment scheduling, and multi-lingual support.
   
   **Tech Stack:** `React.js` `FastAPI` `MongoDB` `Motor` `Google Gemini` `OpenAI API` `LiteLLM` `HuggingFace` `JWT / OAuth2` `Stripe` `AWS S3` `WebSockets` `Pydantic v2` `pytest`
   
@@ -67,14 +67,26 @@ Engaged as a Founding Engineer delivering full-stack, AI-integrated, and platfor
   
   ---
   
-  #### Confidential — AI Microservices Engine `[In Progress]`
+  #### Confidential —  Microservices Engine `[In Progress]`
   *January 2026 – Present*
   
   > *Project details and client identity are confidential per NDA.*
   
-  An early-stage, modular **AI microservices engine** designed to provide reusable, pluggable AI capabilities for client-facing applications.
+  An early-stage, modular ** Microservices engine** designed to provide reusable, pluggable AI capabilities for client-facing applications.
   
   **Tech Stack:** `Python` `AI/ML` `Microservices Architecture`
+
+---
+
+## Freelance Projects *(October 2022 – December 2025)*
+
+Cloud Migration & AI-Driven Infrastructure Operations
+
+- Led/supporting enterprise-scale cloud modernization efforts involving secure migration from on-premises infrastructure to AWS cloud ecosystems while maintaining confidential production platforms and ensuring operational reliability, scalability, and security compliance.
+
+Website Operations & Production Support
+
+- Managed operational maintenance and production support activities for confidential enterprise web platforms, ensuring application reliability, environment stability, deployment readiness, and continuous operational support within secure cloud infrastructure environments.
 
 ---
 
@@ -133,55 +145,6 @@ Engaged as a Founding Engineer delivering full-stack, AI-integrated, and platfor
 
 ---
 
-## Independent Projects *(October 2022 – December 2025)*
-
-### Customer Churn Prediction — Artificial Neural Network
-*February 2025 – March 2025*
-[github.com/MelvinAnnasse/Customer_Churn_Prediction_ANN](https://github.com/MelvinAnnasse/Customer_Churn_Prediction_ANN)
-
-**Tech Stack:** `Python` `TensorFlow` `Keras` `Scikit-Learn` `Streamlit` `Pandas` `NumPy` `TensorBoard`
-
-- Built and trained an **ANN model** on bank customer data with a full preprocessing pipeline (label encoding, one-hot encoding, standard scaling).
-- Serialised trained encoders and scaler for consistent production inference; deployed as a **Streamlit web app** with real-time churn probability output.
-- Used **TensorBoard** for training visualisation and convergence monitoring.
-
----
-
-### Movie Review Sentiment Analysis — Recurrent Neural Network
-*March 2025*
-[github.com/MelvinAnnasse/Movie_Review_Sentiment_Analysis_RNN](https://github.com/MelvinAnnasse/Movie_Review_Sentiment_Analysis_RNN)
-
-**Tech Stack:** `Python` `TensorFlow` `Keras` `LSTM / RNN` `NLP` `Sequence Padding` `Streamlit`
-
-- Built and trained an **LSTM-based RNN model** on the IMDB dataset for binary sentiment classification.
-- Implemented full **NLP preprocessing pipeline**: tokenisation, word index mapping, and sequence padding to 500 tokens.
-- Deployed as a **Streamlit app** with custom dark-theme CSS, providing real-time predictions with confidence scores.
-
----
-
-### Kaggle Competition Projects
-*December 2024 – January 2025*
-[github.com/MelvinAnnasse/Kaggle_Projects](https://github.com/MelvinAnnasse/Kaggle_Projects)
-
-**Tech Stack:** `Python` `Scikit-Learn` `Pandas` `Seaborn` `ydata-profiling` `Jupyter`
-
-- **Holiday Package Prediction** (Classification) — Predicts customer likelihood of purchasing a holiday package based on demographics and income.
-- **Used Car Price Prediction** (Regression) — Predicts resale price of used cars based on brand, age, mileage, fuel type, and transmission.
-- Applied EDA with ydata-profiling, feature engineering, and cross-validated multiple ML models with AUC-ROC benchmarking.
-
----
-
-### Student Performance Prediction
-*January 2025 – February 2025*
-[github.com/MelvinAnnasse/Performance_Prediction](https://github.com/MelvinAnnasse/Performance_Prediction)
-
-**Tech Stack:** `Python` `Flask` `Scikit-Learn` `CatBoost` `XGBoost` `Pandas` `Seaborn` `Jupyter`
-
-- Designed a **production-style ML project architecture** with modular `src/` package: components, pipeline, custom exception handling, and structured logging.
-- Trained and evaluated multiple models including **CatBoost and XGBoost**; deployed as a **Flask web app** for real-time predictions.
-
----
-
 ## Education
 
 **Bachelor of Technology (B.Tech) — Electronics & Communication Engineering**
@@ -189,14 +152,3 @@ Engaged as a Founding Engineer delivering full-stack, AI-integrated, and platfor
 *July 2008 – April 2012*
 
 ---
-
-## Achievements & Recognition
-
-| Achievement                        | Details                                                                                    |
-|------------------------------------|--------------------------------------------------------------------------------------------|
-| **Employee of the Year**           | Recognised at Dell Technologies for outstanding contributions to test automation initiatives |
-| **65% Test Coverage Increase**     | Achieved by designing and maintaining comprehensive automated test frameworks at Dell       |
-| **75% Efficiency Improvement**     | Delivered by optimising automation scripts for maximum reusability and scalability          |
-| **Manual-to-Automation Transition**| Led a major project from 0% to full automation, significantly improving delivery timelines  |
-| **90% iDRAC Platform Coverage**    | Automated critical iDRAC Streaming feature functions via WSMAN at Antal/Dell               |
-| **25% Automation Coverage Boost**  | Developed reusable iDRAC feature modules, expanding team-wide automation coverage          |
