@@ -79,8 +79,9 @@ Engaged as a Founding Engineer delivering full-stack, AI-integrated, and platfor
 
 ---
 
-## Freelance Projects 
+### Freelance Projects 
 *(October 2022 – December 2025)*
+*Puducherry, India.Remote*
 
 Cloud Migration & Infrastructure Operations `[In Progress]`
 
