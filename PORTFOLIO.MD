@@ -80,7 +80,7 @@ Engaged as a Founding Engineer delivering full-stack, AI-integrated, and platfor
 
 ## Freelance Projects *(October 2022 – December 2025)*
 
-Cloud Migration & AI-Driven Infrastructure Operations
+Cloud Migration & Infrastructure Operations `[In Progress]`
 
 - Led/supporting enterprise-scale cloud modernization efforts involving secure migration from on-premises infrastructure to AWS cloud ecosystems while maintaining confidential production platforms and ensuring operational reliability, scalability, and security compliance.
 
