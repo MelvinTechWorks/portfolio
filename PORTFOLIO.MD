@@ -35,8 +35,9 @@ Since 2022, expanded into **AI/ML engineering** and **full-stack development** a
 ## Work Experience
 
 ### Innovista
-**Founding Engineer** — Puducherry, India 
-*January 2026 – Present*
+**Founding Engineer** 
+**January 2026 – Present**
+**Puducherry, India.Remote**
 
 Engaged as a Founding Engineer delivering full-stack, AI-integrated, and platform engineering solutions for private clients across multiple concurrent engagements. Solely responsible for technical architecture, design, development, testing, and delivery.
 
